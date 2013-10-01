@@ -172,6 +172,18 @@ img[src="frame_pictures/banner.png"]{
 	float: right;
 }
 
+/*User Interactions*/
+
+.friendsStatusPhoto {
+    text-align: center;
+
+}
+
+.imageStatus {
+
+    width : 50%;
+}
+
 /*apropos.html*/
 
 #aProposTable {
@@ -231,3 +243,4 @@ img[src="frame_pictures/banner.png"]{
 #CompteModifier {
     text-align: right;
 }
+
